@@ -4237,6 +4237,20 @@
         }
       }
     },
+    "com.kugou.android.lite": {
+      "name": "酷狗音乐概念版",
+      "enable": true,
+      "activityRules": {
+        "*": {
+          "mode": 2,
+          "color": null,
+          "sf_sampling_mode": 0,
+          "dialogMode": 1,
+          "popupMode": 1,
+          "appNavColorDisabled": 0
+        }
+      }
+    },
     "com.kwai.theater": {
       "name": "喜番免费短剧",
       "enable": true,

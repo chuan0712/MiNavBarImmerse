@@ -4,11 +4,6 @@ env:
   PROGRAM_NAME: "MiNavBarImmerse"
 
 on:
-  pull_request:
-    branches: [main]
-    paths:
-      - "module/immerse_rules.json"
-
   push:
     branches: [main]
     paths:

@@ -3,6 +3,16 @@
   "modules": "navigation_bar_immersive_application_config_new",
   "modifyApps": "modifyApps",
   "NBIRules": {
+    "mark.via.gp": {
+      "name": "via",
+      "enable": true,
+      "activityRules": {
+        "*": {
+          "mode": 2,
+          "color": null
+        }
+      }
+    },
     "air.tv.douyu.android": {
       "name": "",
       "enable": true,
